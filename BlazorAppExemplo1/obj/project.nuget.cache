@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hC8kpoZLe2XiwYTqq8pEAEsKWZTiHh0+uePQ1Hul5hhuSzyPjspzi6MmLgOYnoMROfUPNrTH+o9I2boryfvoug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucil\\OneDrive\\Ambiente de Trabalho\\Faculdade\\Programação com Acesso a Banco de Dados\\BlazorAppExemplo1\\BlazorAppExemplo1\\BlazorAppExemplo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\lucil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\lucil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\lucil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

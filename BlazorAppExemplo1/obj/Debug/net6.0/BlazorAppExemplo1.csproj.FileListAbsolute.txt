@@ -1,0 +1,63 @@
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\appsettings.json
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.staticwebassets.runtime.json
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.exe
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.deps.json
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.runtimeconfig.json
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.dll
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.pdb
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.csproj.AssemblyReference.cache
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.AssemblyInfoInputs.cache
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.AssemblyInfo.cs
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.csproj.CoreCompileInputs.cache
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.RazorAssemblyInfo.cache
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.RazorAssemblyInfo.cs
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets\msbuild.BlazorAppExemplo1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorAppExemplo1.props
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorAppExemplo1.props
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorAppExemplo1.props
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\scopedcss\bundle\BlazorAppExemplo1.styles.css
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\scopedcss\projectbundle\BlazorAppExemplo1.bundle.scp.css
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.dll
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\refint\BlazorAppExemplo1.dll
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.pdb
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.genruntimeconfig.cache
+C:\Users\2021102060026\Desktop\Blazor\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\ref\BlazorAppExemplo1.dll
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\appsettings.json
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.staticwebassets.runtime.json
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.exe
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.deps.json
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.runtimeconfig.json
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.dll
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\bin\Debug\net6.0\BlazorAppExemplo1.pdb
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.AssemblyInfoInputs.cache
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.AssemblyInfo.cs
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.csproj.CoreCompileInputs.cache
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.RazorAssemblyInfo.cache
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.RazorAssemblyInfo.cs
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets\msbuild.BlazorAppExemplo1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorAppExemplo1.props
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorAppExemplo1.props
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorAppExemplo1.props
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\scopedcss\bundle\BlazorAppExemplo1.styles.css
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\scopedcss\projectbundle\BlazorAppExemplo1.bundle.scp.css
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.dll
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\refint\BlazorAppExemplo1.dll
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.pdb
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\BlazorAppExemplo1.genruntimeconfig.cache
+C:\Users\lucil\OneDrive\Ambiente de Trabalho\Faculdade\Programação com Acesso a Banco de Dados\BlazorAppExemplo1\BlazorAppExemplo1\obj\Debug\net6.0\ref\BlazorAppExemplo1.dll
